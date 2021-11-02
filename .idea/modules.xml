@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intellij.iml" filepath="$PROJECT_DIR$/.idea/modules/intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Tic-Tac-Toe/task/intellij.Simple_Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/intellij.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/intellij.util.test.iml" />
+    </modules>
+  </component>
+</project>
